@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1458507552 source:c:\users\nika\desktop\мехмат\Богачев\hash_search\cmd.cpp
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"cmd.h"
+	"read_print.h"
+
+1458372496 c:\users\nika\desktop\мехмат\Богачев\hash_search\cmd.h
+	"record_list.h"
+
+1457722700 c:\users\nika\desktop\мехмат\Богачев\hash_search\record_list.h
+	"record_node.h"
+	"stdio.h"
+
+1456952842 c:\users\nika\desktop\мехмат\Богачев\hash_search\record_node.h
+	"record.h"
+	"stdio.h"
+
+1457124596 c:\users\nika\desktop\мехмат\Богачев\hash_search\record.h
+
+1458507538 c:\users\nika\desktop\мехмат\Богачев\hash_search\read_print.h
+
+1458507593 source:c:\users\nika\desktop\мехмат\Богачев\hash_search\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"cmd.h"
+	"read_print.h"
+
+1457717228 source:c:\users\nika\desktop\мехмат\Богачев\hash_search\record.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"record.h"
+
+1458509560 source:c:\users\nika\desktop\мехмат\Богачев\hash_search\read_print.cpp
+	<stdio.h>
+	"record_list.h"
+
